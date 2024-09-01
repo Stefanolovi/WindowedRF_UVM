@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # STEP2
+=======
+# WINDOWED RF
+>>>>>>> edb0272ffaa285058e992df1af93e202706fd668
 
 
 
@@ -15,14 +19,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://git.vlsilab.polito.it/workshop-soc-verification/2024-preparatory/2024-prep-loviselli/step2.git
+=======
+git remote add origin https://git.vlsilab.polito.it/workshop-soc-verification/2024-preparatory/2024-prep-loviselli/windowed-rf.git
+>>>>>>> edb0272ffaa285058e992df1af93e202706fd668
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://git.vlsilab.polito.it/workshop-soc-verification/2024-preparatory/2024-prep-loviselli/step2/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://git.vlsilab.polito.it/workshop-soc-verification/2024-preparatory/2024-prep-loviselli/windowed-rf/-/settings/integrations)
+>>>>>>> edb0272ffaa285058e992df1af93e202706fd668
 
 ## Collaborate with your team
 
