@@ -1,0 +1,71 @@
+COVERGROUP COVERAGE:
+----------------------------------------------------------------------------------------------------------
+Covergroup                                             Metric       Goal       Bins    Status               
+                                                                                                         
+----------------------------------------------------------------------------------------------------------
+ TYPE /RF_pkg/RF_cov/RF_cg                            100.00%        100          -    Covered              
+    covered/total bins:                                    48         48          -                      
+    missing/total bins:                                     0         48          -                      
+    % Hit:                                            100.00%        100          -                      
+    Coverpoint ADD_WR_cp                              100.00%        100          -    Covered              
+        covered/total bins:                                16         16          -                      
+        missing/total bins:                                 0         16          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin auto[0]                                        28          1          -    Covered              
+        bin auto[1]                                        34          1          -    Covered              
+        bin auto[2]                                        33          1          -    Covered              
+        bin auto[3]                                        29          1          -    Covered              
+        bin auto[4]                                        32          1          -    Covered              
+        bin auto[5]                                        30          1          -    Covered              
+        bin auto[6]                                        38          1          -    Covered              
+        bin auto[7]                                        32          1          -    Covered              
+        bin auto[8]                                        34          1          -    Covered              
+        bin auto[9]                                        29          1          -    Covered              
+        bin auto[10]                                       26          1          -    Covered              
+        bin auto[11]                                       32          1          -    Covered              
+        bin auto[12]                                       36          1          -    Covered              
+        bin auto[13]                                       30          1          -    Covered              
+        bin auto[14]                                       34          1          -    Covered              
+        bin auto[15]                                       22          1          -    Covered              
+    Coverpoint ADD_RD1_cp                             100.00%        100          -    Covered              
+        covered/total bins:                                16         16          -                      
+        missing/total bins:                                 0         16          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin auto[0]                                        39          1          -    Covered              
+        bin auto[1]                                        22          1          -    Covered              
+        bin auto[2]                                        35          1          -    Covered              
+        bin auto[3]                                        33          1          -    Covered              
+        bin auto[4]                                        36          1          -    Covered              
+        bin auto[5]                                        29          1          -    Covered              
+        bin auto[6]                                        35          1          -    Covered              
+        bin auto[7]                                        29          1          -    Covered              
+        bin auto[8]                                        27          1          -    Covered              
+        bin auto[9]                                        31          1          -    Covered              
+        bin auto[10]                                       32          1          -    Covered              
+        bin auto[11]                                       33          1          -    Covered              
+        bin auto[12]                                       34          1          -    Covered              
+        bin auto[13]                                       27          1          -    Covered              
+        bin auto[14]                                       30          1          -    Covered              
+        bin auto[15]                                       27          1          -    Covered              
+    Coverpoint ADD_RD2_cp                             100.00%        100          -    Covered              
+        covered/total bins:                                16         16          -                      
+        missing/total bins:                                 0         16          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin auto[0]                                        25          1          -    Covered              
+        bin auto[1]                                        36          1          -    Covered              
+        bin auto[2]                                        33          1          -    Covered              
+        bin auto[3]                                        36          1          -    Covered              
+        bin auto[4]                                        31          1          -    Covered              
+        bin auto[5]                                        27          1          -    Covered              
+        bin auto[6]                                        22          1          -    Covered              
+        bin auto[7]                                        34          1          -    Covered              
+        bin auto[8]                                        33          1          -    Covered              
+        bin auto[9]                                        42          1          -    Covered              
+        bin auto[10]                                       30          1          -    Covered              
+        bin auto[11]                                       30          1          -    Covered              
+        bin auto[12]                                       34          1          -    Covered              
+        bin auto[13]                                       37          1          -    Covered              
+        bin auto[14]                                       19          1          -    Covered              
+        bin auto[15]                                       30          1          -    Covered              
+
+TOTAL COVERGROUP COVERAGE: 100.00%  COVERGROUP TYPES: 1
